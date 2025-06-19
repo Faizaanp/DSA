@@ -1,0 +1,1 @@
+array[i], array[minIndex] = array[minIndex], array[i]
